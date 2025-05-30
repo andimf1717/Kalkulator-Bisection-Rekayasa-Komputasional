@@ -1,4 +1,4 @@
-# Kalkulator Metode Bagi Dua
+# Kalkulator Bisection Metode Bagi Dua
 
 ## Deskripsi Proyek
 
