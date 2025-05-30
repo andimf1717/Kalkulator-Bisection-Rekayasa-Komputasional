@@ -1,9 +1,9 @@
 import customtkinter as ctk
 from tkinter import ttk, messagebox, scrolledtext, font as tkfont
-import sympy # Pustaka untuk komputasi simbolik, berguna untuk parsing dan manipulasi ekspresi matematika
+import sympy # libary untuk komputasi simbolik, berguna untuk parsing dan manipulasi ekspresi matematika
 from sympy.parsing.sympy_parser import parse_expr, standard_transformations, implicit_multiplication_application, convert_xor # Fungsi spesifik dari sympy untuk parsing
 import math # Modul matematika standar Python (untuk fungsi seperti exp, log, sqrt, dll. dalam kalkulasi numerik)
-import numpy # Pustaka untuk komputasi numerik, kadang dipakai oleh lambdify untuk fungsi tertentu
+import numpy # libarry untuk komputasi numerik, kadang dipakai oleh lambdify untuk fungsi tertentu
 import re # Modul regular expression, untuk pencarian pola teks (misalnya di format toleransi)
 
 # Imports untuk Matplotlib Preview
