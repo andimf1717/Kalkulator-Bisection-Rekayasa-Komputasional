@@ -79,7 +79,7 @@ Antarmuka grafis aplikasi akan ditampilkan.
 
 ## Struktur Direktori Proyek (Contoh)
 Nama_Folder_Proyek/
-├── nama_file_utama.py       # Skrip Python utama aplikasi
-├── requirements.txt         # Daftar dependensi pustaka
-└── README.md                # File panduan ini
-└── env_bisection_calc/      # Direktori lingkungan virtual (dibuat lokal, tidak untuk didistribusikan)
+*├── nama_file_utama.py       # Skrip Python utama aplikasi
+*├── requirements.txt         # Daftar dependensi pustaka
+*└── README.md                # File panduan ini
+*└── env_bisection_calc/      # Direktori lingkungan virtual (dibuat lokal, tidak untuk didistribusikan)
