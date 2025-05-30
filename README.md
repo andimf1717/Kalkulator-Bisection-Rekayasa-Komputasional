@@ -62,10 +62,8 @@ Setelah semua langkah instalasi dan konfigurasi di atas selesai, dan lingkungan 
 1.  Pastikan Anda berada di direktori utama proyek pada terminal.
 2.  Jalankan skrip utama aplikasi dengan perintah:
     ```bash
-    python nama_file_utama.py
+    python bisection_calculator.py
     ```
-    Silakan ganti `nama_file_utama.py` dengan nama file Python yang berisi kode utama kalkulator ini (contoh: `kalkulator_bisection_3ia28_rekayasa_komputasional.py`).
-
 Antarmuka grafis aplikasi akan ditampilkan.
 
 ## Panduan Penggunaan Singkat
